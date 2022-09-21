@@ -9,3 +9,7 @@ In the Phone Book Recording System project, we chose the Switch-case command as 
 We preferred to use many approaches in order to show our knowledge and quality the project. </br>
 We used approaches such as break, goto, functions and vector library. </br>
 In addition, we gained experience in thinking, working and developing, and debugging in each chapter.
+
+## Contributors
+- [@aysencakir](https://www.github.com/aysencakir) design, development and documentation.
+- [@ozlemcali](https://www.github.com/ozlemcali) design, development and documentation.
